@@ -14,8 +14,8 @@ vim-plug:
 ## Options/Usage
 
 The default shortcut is `<leader>f` which opens ranger in the CWD. Any file picked
-will be opened in vim. Tested on vim 8
+will be opened in vim. Tested on vim 8.
 
-To remap this add `let g:ranger_remap_key = 1` to `.vimrc` and
+To remap the shortcut add `let g:ranger_remap_key = 1` to `.vimrc` and
 set `nnoremap <new-shortcut> :RangerChooser<CR>` to your desired shortcut.
 
