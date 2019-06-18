@@ -30,6 +30,6 @@ function! RangeChooser()
 endfunction
 command! -bar RangerChooser call RangeChooser()
 
-if !exists('g:ranger_map_keys')
+if !exists('g:ranger_remap_key')
   nnoremap <leader>f :<C-U>RangerChooser<CR>
 endif
