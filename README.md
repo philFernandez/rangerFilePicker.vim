@@ -1,6 +1,6 @@
 # rangerFilePicker.vim
 
-## This script ships with each new ranger install in the examples directory.
+## This script ships with each new [ranger](https://github.com/ranger/ranger) install in the examples directory.
 
 I've packaged it, and added an option to change the keyboard shortcut.
 
