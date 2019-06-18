@@ -6,9 +6,11 @@ I've packaged it, and added an option to change the keyboard shortcut.
 
 ## Installation
 
-vim-plug:
+[vim-plug](https://github.com/junegunn/fzf):
 
     Plug 'philFernandez/rangerFilePicker.vim'
+
+Or use your preferred method of plugin installation.
 
 
 ## Options/Usage
